@@ -2,7 +2,7 @@
 
 **I'm K97i,** A no-nonsense Music Producer, content creator, accidental tech support, CSGO silver scrub, and programmer?
 
-I used to work heavily with the Realm of Harmony in 2022, now spending time in the [r/techsupport Discord](rtech.support/discord) to help people, and help the mods program Specify, and the [Foxtale2614 Discord](https://discord.gg/NMjvvthekD) to hang out with fellow Ninjago nerds, while waiting for another task to do from the Realm of Harmony.
+I used to work heavily with the Realm of Harmony in 2022, now spending time in the [r/techsupport Discord](rtech.support/discord) to help people, and help the mods program Specify, and the [Foxtale2614 Discord](https://discord.gg/NMjvvthekD) to hang out with fellow Ninjago nerds.
 
 _Small list of accomplishments?:_
   1. [Proofreader (and small time writer)](https://github.com/r-Techsupport/rTS_Wiki/commits?author=K97i) for [**r/techsupport's wiki**](https://rtech.support/)
