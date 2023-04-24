@@ -18,6 +18,9 @@ _Small list of accomplishments?:_
 
 **Thanks for reading!**
               - K97i
-
-[![](https://github.com/K97i/github-stats/raw/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
-[![](https://github.com/K97i/github-stats/raw/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
+<html>
+  <div>
+    <img style="flex-grow: 1; width: 30%; height: 210px" src="https://github.com/K97i/github-stats/raw/master/generated/overview.svg#gh-dark-mode-only" href="https://github.com/jstrieb/github-stats"/>
+    <img style="flex-grow: 1; width: 69%; height: 210px" src="https://github.com/K97i/github-stats/raw/master/generated/languages.svg#gh-dark-mode-only" href="https://github.com/jstrieb/github-stats"/>
+  </div>
+</html>
