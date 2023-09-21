@@ -5,15 +5,12 @@
 I used to work heavily with the Realm of Harmony in 2022, now spending time in the [r/techsupport Discord](rtech.support/discord) to help people, and help the mods program Specify, and the [Foxtale2614 Discord](https://discord.gg/NMjvvthekD) to hang out with fellow Ninjago nerds.
 
 _Small list of accomplishments?:_
-  1. [Proofreader (and small time writer)](https://github.com/r-Techsupport/rTS_Wiki/commits?author=K97i) for [**r/techsupport's wiki**](https://rtech.support/)
 
-  2. [Programmer for](https://github.com/Spec-ify/specified/commits?author=K97i) [ a bunch of stuff](https://github.com/Spec-ify/specify/commits?author=K97i), creator of Specify's GUI and apparent Project UX Engineer for [**Spec-ify**](https://github.com/Spec-ify/specify), a system info dumper (sorry if it broke!)
+  1. Worked on [4](https://www.youtube.com/watch?v=itqw1gI_R7M) [of](https://www.youtube.com/watch?v=w50t7xC3vVY) [the](https://www.youtube.com/watch?v=CEdAEuozJiI) [11 songs](https://www.youtube.com/watch?v=kfefDBrKH34) in the [**Ninjago Crystalized Fan-album**](https://sites.google.com/view/ninjagorealmofharmony/roh-archive/lego-ninjago/roh-fanalbums/season-fanalbums/crystalized) by the [Realm of Harmony](https://www.youtube.com/@R0H)
 
-  3. Worked on [4](https://www.youtube.com/watch?v=itqw1gI_R7M) [of](https://www.youtube.com/watch?v=w50t7xC3vVY) [the](https://www.youtube.com/watch?v=CEdAEuozJiI) [11 songs](https://www.youtube.com/watch?v=kfefDBrKH34) in the [**Ninjago Crystalized Fan-album**](https://sites.google.com/view/ninjagorealmofharmony/roh-archive/lego-ninjago/roh-fanalbums/season-fanalbums/crystalized) by the [Realm of Harmony](https://www.youtube.com/@R0H)
+  2. **5 years** of music production experience (2019 - 2023)
 
-  4. **4 years** of music production experience (2019 - 2022)
-
-  5. Consistent monthly upload for the entire year of 2022.
+  3. Consistent monthly upload for the entire year of 2022.
 
 
 **Thanks for reading!**
