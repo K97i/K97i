@@ -1,8 +1,10 @@
 # Hey!
 
-**I'm K97i,** A no-nonsense Music Producer, content creator, accidental tech support, CSGO silver scrub, and programmer?
+What happens when you give a man tons of time? You get me.
 
-I used to work heavily with the Realm of Harmony in 2022, now spending time in the [r/techsupport Discord](rtech.support/discord) to help people, and help the mods program Specify, and the [Foxtale2614 Discord](https://discord.gg/NMjvvthekD) to hang out with fellow Ninjago nerds.
+Hello! I’m K97i. I’m a music producer and have been for 4 years (as of 2023). I'm also a content creator, CSGO silver scrub, and programmer?
+
+I used to work heavily with the Realm of Harmony in 2022, now spending time in the [Foxtale2614 Discord](https://discord.gg/NMjvvthekD) to hang out with fellow Ninjago nerds.
 
 _Small list of accomplishments?:_
 
