@@ -2,7 +2,7 @@
 
 What happens when you give a man tons of time? You get me.
 
-Hello! I’m K97i. I’m a music producer and have been for 4 years (as of 2023). I'm also a content creator, CSGO silver scrub, and programmer?
+Hello! I’m K97i. I’m a music producer and have been for 5 years (as of 2024). I'm also a content creator, CSGO silver scrub, and programmer?
 
 I used to work heavily with the Realm of Harmony in 2022, now spending time in the [Foxtale2614 Discord](https://discord.gg/NMjvvthekD) to hang out with fellow Ninjago nerds.
 
@@ -10,7 +10,7 @@ _Small list of accomplishments?:_
 
   1. Worked on [4](https://www.youtube.com/watch?v=itqw1gI_R7M) [of](https://www.youtube.com/watch?v=w50t7xC3vVY) [the](https://www.youtube.com/watch?v=CEdAEuozJiI) [11 songs](https://www.youtube.com/watch?v=kfefDBrKH34) in the [**Ninjago Crystalized Fan-album**](https://sites.google.com/view/ninjagorealmofharmony/roh-archive/lego-ninjago/roh-fanalbums/season-fanalbums/crystalized) by the [Realm of Harmony](https://www.youtube.com/@R0H)
 
-  2. **5 years** of music production experience (2019 - 2023)
+  2. **5 years** of music production experience (2019 - 2023, inclusive)
 
   3. Consistent monthly upload for the entire year of 2022.
 
