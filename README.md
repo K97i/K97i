@@ -8,11 +8,15 @@ I used to work heavily with the Realm of Harmony in 2022, now spending time in t
 
 _Small list of accomplishments?:_
 
-  1. Worked on [4](https://www.youtube.com/watch?v=itqw1gI_R7M) [of](https://www.youtube.com/watch?v=w50t7xC3vVY) [the](https://www.youtube.com/watch?v=CEdAEuozJiI) [11 songs](https://www.youtube.com/watch?v=kfefDBrKH34) in the [**Ninjago Crystalized Fan-album**](https://sites.google.com/view/ninjagorealmofharmony/roh-archive/lego-ninjago/roh-fanalbums/season-fanalbums/crystalized) by the [Realm of Harmony](https://www.youtube.com/@R0H)
+  1. A member of the [Spec-ify](https://github.com/Spec-ify/) dev team. I am responsible for some of the UI elements. I developed the GUI of specify from the design of [zleyyij](https://github.com/zleyyij/). I am also one of the maintainers of [specified](https://github.com/Spec-ify/specified).
 
-  2. **5 years** of music production experience (2019 - 2023, inclusive)
+  2. I also used to be an active member (helper :DDD) of the [r/techsupport Discord](https://rtech.support/discord).
 
-  3. Consistent monthly upload for the entire year of 2022.
+  3. Worked on [4](https://www.youtube.com/watch?v=itqw1gI_R7M) [of](https://www.youtube.com/watch?v=w50t7xC3vVY) [the](https://www.youtube.com/watch?v=CEdAEuozJiI) [11 songs](https://www.youtube.com/watch?v=kfefDBrKH34) in the [**Ninjago Crystalized Fan-album**](https://sites.google.com/view/ninjagorealmofharmony/roh-archive/lego-ninjago/roh-fanalbums/season-fanalbums/crystalized) by the [Realm of Harmony](https://www.youtube.com/@SOTE_RoH)
+
+  4. **5 years** of music production experience (2019 - 2023, inclusive)
+
+  5. Consistent monthly upload for the entire year of 2022.
 
 
 **Thanks for reading!**
