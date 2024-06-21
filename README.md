@@ -2,22 +2,17 @@
 
 What happens when you give a man tons of time? You get me.
 
-Hello! I’m K97i. I’m a music producer and have been for 5 years (as of 2024). I'm also a content creator, CSGO silver scrub, and programmer?
+Hello! I’m K97i. I'm primarily a music producer, but I also do programming!
 
-I used to work heavily with the Realm of Harmony in 2022, now spending time in the [Foxtale2614 Discord](https://discord.gg/NMjvvthekD) to hang out with fellow Ninjago nerds.
+My main interest is music which could be found on my YouTube channel, but you can also find my Frontend Dev work as well as my scripts here!
 
-_Small list of accomplishments?:_
+_K9's Dev Work:_
 
-  1. A member of the [Spec-ify](https://github.com/Spec-ify/) dev team. I am responsible for some of the UI elements. I developed the GUI of specify from the design of [zleyyij](https://github.com/zleyyij/). I am also one of the maintainers of [specified](https://github.com/Spec-ify/specified).
+  1. A member of the [Spec-ify](https://github.com/Spec-ify/) dev team. I developed the GUI for specify from the design of [zleyyij](https://github.com/zleyyij/). I am also one of the maintainers of [specified](https://github.com/Spec-ify/specified).
 
-  2. I also used to be an active member (helper :DDD) of the [r/techsupport Discord](https://rtech.support/discord).
+  2. I also used to be an active member (helper :DDD) of the [r/techsupport Discord](https://rtech.support/discord). I also help out with the Wiki team with proofreading, and help develop the frontend side of Hyde, their wiki editor written in Svelte (Typescript).
 
-  3. Worked on [4](https://www.youtube.com/watch?v=itqw1gI_R7M) [of](https://www.youtube.com/watch?v=w50t7xC3vVY) [the](https://www.youtube.com/watch?v=CEdAEuozJiI) [11 songs](https://www.youtube.com/watch?v=kfefDBrKH34) in the [**Ninjago Crystalized Fan-album**](https://sites.google.com/view/ninjagorealmofharmony/roh-archive/lego-ninjago/roh-fanalbums/season-fanalbums/crystalized) by the [Realm of Harmony](https://www.youtube.com/@SOTE_RoH)
-
-  4. **5 years** of music production experience (2019 - 2023, inclusive)
-
-  5. Consistent monthly upload for the entire year of 2022.
-
+  3. Created [my own site](https://k97i.github.io/), using Jekyll's Minima theme as a basis, modifying it to my own style and adding some QOL features. 
 
 **Thanks for reading!**
               - K97i
