@@ -42,6 +42,4 @@ _K9's Dev Work:_
 ### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K97i&layout=compact&langs_count=12&theme=dark)
-
-<img src="https://github-readme-stats.vercel.app/api?username=K97i&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K97i&layout=compact&show_icons=true&theme=dark"/>
+![](https://github-readme-stats.vercel.app/api?username=K97i&show_icons=true&theme=dark)
