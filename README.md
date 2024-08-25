@@ -41,12 +41,7 @@ _K9's Dev Work:_
 
 ### GitHub Stats
 
-<html>
-  <div>
-    <img style="flex-grow: 1; width: 30%; height: 210px" src="https://github.com/K97i/github-stats/raw/master/generated/overview.svg#gh-dark-mode-only" href="https://github.com/jstrieb/github-stats"/>
-    <img style="flex-grow: 1; width: 69%; height: 210px" src="https://github.com/K97i/github-stats/raw/master/generated/languages.svg#gh-dark-mode-only" href="https://github.com/jstrieb/github-stats"/>
-  </div>
-</html>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K97i&layout=compact&langs_count=12&theme=dark)
 
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=K97i&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K97i&layout=compact&show_icons=true&theme=dark"/>
