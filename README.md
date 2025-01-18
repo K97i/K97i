@@ -12,7 +12,7 @@ _K9's Dev Work:_
 
   2. I also used to be an active member (helper :DDD) of the [r/techsupport Discord](https://rtech.support/discord). I also help out with the Wiki team with proofreading, and help develop the frontend side of Hyde, their wiki editor written in Svelte (Typescript).
 
-  3. Created [my own site](https://k97i.github.io/), using Jekyll's Minima theme as a basis, modifying it to my own style and adding some QOL features. 
+  3. Created [my own site](https://www.k97i.com/), using Jekyll's Minima theme as a basis, modifying it to my own style and adding some QOL features. 
 
 **Thanks for reading!**
               - K97i
