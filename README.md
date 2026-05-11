@@ -1,45 +1,23 @@
-# Hey!
+# The Intern of All Trades! :3
 
-What happens when you give a man tons of time? You get me.
+Hello! I'm K97i. I'm mainly a music producer and songwriter (circa 2019), but I do software and web development, and currently taking BS Computer Science at De La Salle University - Manila.
 
-Hello! I’m K97i. I'm primarily a music producer, but I also do programming!
+I thrive with ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)/![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), and ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), but can work with literally any programming language given enough time! (having worked in ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white), ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white), ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white), and ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white))
 
-My main interest is music which could be found on my YouTube channel, but you can also find my Frontend Dev work as well as my scripts here!
+# Some development projects I've worked on that you may have seen
 
-_K9's Dev Work:_
+## Specify (2022 - present)
 
-  1. A member of the [Spec-ify](https://github.com/Spec-ify/) dev team. I developed the GUI for specify from the design of [zleyyij](https://github.com/zleyyij/). I am also one of the maintainers of [specified](https://github.com/Spec-ify/specified).
+A Windows diagnostic toolkit that collects and displays hardware and software information.
 
-  2. I also used to be an active member (helper :DDD) of the [r/techsupport Discord](https://rtech.support/discord). I also help out with the Wiki team with proofreading, and help develop the frontend side of Hyde, their wiki editor written in Svelte (Typescript).
+I've been an active developer for the Specify team since the team's official inception. I created the graphical interface for the C# client in XAML ([Spec-ify/specify](https://github.com/Spec-ify/specify)), handling both UI design and programming; created new methods for diagnostic info collection for said client; maintained and added requested features the viewer website written and PHP and JavaScript ([Spec-ify/specified](https://github.com/Spec-ify/specified)); and rewrote some code in the Rust API for retrieving hardware info ([Spec-ify/hwapi](https://github.com/Spec-ify/hwapi)). I also designed the logo for Specify!
 
-  3. Created [my own site](https://www.k97i.com/), using Jekyll's Minima theme as a basis, modifying it to my own style and adding some QOL features. 
+I am currently working on the website rewrite of the PHP website, porting the entire viewer to Svelte and Typescript (using TailwindCSS and SkeletonUI).
 
-**Thanks for reading!**
-              - K97i
-              
-## K9's Programming Journey
+## r/TechSupport (2022 - present)
 
-### Languages he's written in:
+I have done work for r/TechSupport as a whole. I've proofread a good majority of articles for their wiki page ([r-techsupport/rTS_Wiki](https://github.com/r-techsupport/rTS_Wiki)); added a couple of features to and fixed some bugs in their Discord bot written in Python ([r-Techsupport/TechSupportBot](https://github.com/r-techsupport/TechSupportBot)); and squashed some more bugs (and styling fixes) in their custom wiki CMS written in Svelte ([r-Techsupport/hyde](https://github.com/r-techsupport/hyde)).
 
-![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
+## Crydengo (2026)
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-
-> ❗ While he has written in these languages before, **that does not mean he is proficient in it.**
-
-### Software he uses:
-
-![Ableton Live Badge](https://img.shields.io/badge/Ableton%20Live-000?logo=abletonlive&logoColor=fff&style=flat-square)
-![VSCodium Badge](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff&style=flat-square)
-![VSCO Badge](https://img.shields.io/badge/VSCO-000?logo=vsco&logoColor=fff&style=flat-square)
-
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=K97i&layout=compact&langs_count=12&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=K97i&show_icons=true&theme=dark)
+I am the sole creator of Crydengo ([K97i/crydengo](https://github.com/K97i/crydengo)), an experimental Discord moderation bot that catches "Crypto Casino" spam and 18+ Server Invite spam caused by hacked accounts and bots. Made for The Foxtale Discord Server, the bot is written in Discord.js.
