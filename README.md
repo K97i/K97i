@@ -11,7 +11,7 @@
             </p>
         </td>
         <td width="50%" valign="center">
-            <img src="./assets/github26.png"/>
+            <img src="./assets/github26-1.webp"/>
         </td>
     </tr>
 </table>
@@ -30,7 +30,7 @@
             </p>
         </td>
         <td>
-            <img src="./assets/github26-2.png">
+            <img src="./assets/github26-2.webp">
         </td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
             </p>
         </td>
         <td>
-            <img src="./assets/github26-1.png">
+            <img src="./assets/github26-3.webp">
         </td>
     </tr>
 </table>
@@ -74,7 +74,7 @@
             </p>
         </td>
         <td>
-            <img src="./assets/github26-3.png">
+            <img src="./assets/github26-4.webp">
         </td>
     </tr>
 </table>
