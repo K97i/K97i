@@ -1,23 +1,80 @@
-# The Intern of All Trades! :3
+<h1 align="center">K97i - The Intern of All Trades!</h1>
 
-Hello! I'm K97i. I'm mainly a music producer and songwriter (since 2019 on [YouTube](https://www.youtube.com/@K97i)), but I do software and web development, and currently taking BS Computer Science at De La Salle University - Manila.
+<table width="100%">
+    <tr>
+        <td width="50%" valign="center">
+            <h3 align="center">About Me</h3>
+            <p>
+                Hello! I'm K97i. ()<br/><br/>
+                I'm a sophomore student from De La Salle University, taking BS Computer Science, Major in Software Technology. I've covered many roles and wore many hats, but I mainly focus on web development!<br/><br/>
+                I'm also a (former? retired? taking a break?) electronic music producer, composer and songwriter, with a <a href="https://www.youtube.com/@K97i">YouTube channel</a>
+            </p>
+        </td>
+        <td width="50%" valign="center">
+            <img src="./assets/github26.png"/>
+        </td>
+    </tr>
+</table>
 
-I thrive with C#, JavaScript/TypeScript, and Python, but can work with literally any programming language given enough time! (having worked in C, PHP, Rust, and Kotlin.)
+<h3 align="center">Current Roles</h3>
 
-# Some projects I've worked on that you may have seen
+<table width="100%">
+    <tr>
+        <td width="50%" valign="center">
+            <div align="center">
+                <h3>Committee Trainee @ LSCS</h3>
+                <sup>( 2026 - present )</sup>
+            </div>
+            <p>
+                I joined my university's computer science student organiazation, La Salle Computer Society (LSCS). I'm currently serving as a committee trainee under Design and Interface, specializing in Frontend Engineering.<br/>
+            </p>
+        </td>
+        <td>
+            <img src="./assets/github26-2.png">
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" valign="center">
+            <div align="center">
+                <h3>UI/UX Engineer @ Specify</h3>
+                <sup>( 2022 - present )</sup>
+            </div>
+            <p>
+                During the pandemic, I joined the development team of the Specify application, a diagnostic tool originally made for use in r/techsupport. While the job title says UI/UX engineer, I wear a lot of hats for the development of this tool!<br/>
+                <ul>
+                    <li>
+                        Designed and developed the current user interface of Specify in Adobe Illustrator, XAML, and C#. 
+                    </li>
+                    <li>
+                        Working as a maintainer for the viewer for Specify reports, Specified, written in PHP.
+                    </li>
+                    <li>
+                        Currently working on the rewrite of the viewer in Svelte / SkeletonUI. 
+                    </li>
+                </ul>
+            </p>
+        </td>
+        <td>
+            <img src="./assets/github26-1.png">
+        </td>
+    </tr>
+</table>
 
-## Specify (2022 - present)
+<h3 align="center">Current Projects</h3>
 
-A Windows diagnostic toolkit that collects and displays hardware and software information.
-
-I've been an active developer for the Specify team since the team's official inception. I created the graphical interface for the C# client in XAML ([Spec-ify/specify](https://github.com/Spec-ify/specify)), handling both UI design and programming; created new methods for diagnostic info collection for said client; maintained the viewer website written and PHP and JavaScript ([Spec-ify/specified](https://github.com/Spec-ify/specified)) and added requested features to the site; and rewrote some code in the Rust API for retrieving hardware info ([Spec-ify/hwapi](https://github.com/Spec-ify/hwapi)). I also designed the logo for Specify!
-
-I am currently working on the rewrite of the PHP website, porting the entire viewer to Svelte and Typescript (with TailwindCSS and SkeletonUI).
-
-## r/TechSupport (2022 - present)
-
-I have done work for r/TechSupport as a whole. I've proofread a good majority of articles for their wiki page ([r-techsupport/rTS_Wiki](https://github.com/r-techsupport/rTS_Wiki)); added a couple of features to and fixed some bugs in their Discord bot written in Python ([r-Techsupport/TechSupportBot](https://github.com/r-techsupport/TechSupportBot)); and squashed some more bugs (and styling fixes) in their custom wiki CMS written in Svelte ([r-Techsupport/hyde](https://github.com/r-techsupport/hyde)).
-
-## Crydengo (2026)
-
-I am the sole creator of Crydengo ([K97i/crydengo](https://github.com/K97i/crydengo)), an experimental Discord moderation bot that catches "Crypto Casino" spam and 18+ Server Invite spam caused by hacked accounts and bots. Made for The Foxtale Discord Server, the bot is written in Discord.js.
+<table width="100%">
+    <tr>
+        <td width="50%" valign="center">
+            <div align="center">
+                <h3>Crydengo</h3>
+                <sup>( 2026 - present )</sup>
+            </div>
+            <p>
+                I made experimental moderation bot <a href="www.github.com/K97i/crydengo">Crydengo</a>, written in Javascript, using Discord.js. Primarily made for the Foxtale Discord server, it's main feature is its automatic crypto casino spam detection, using Tesseract.js.<br/>
+            </p>
+        </td>
+        <td>
+            <img src="./assets/github26-3.png">
+        </td>
+    </tr>
+</table>
