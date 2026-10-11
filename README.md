@@ -7,7 +7,7 @@
             <p>
                 Hello! I'm K97i. (🏳️‍🌈, he/they)<br/><br/>
                 I'm a sophomore student from De La Salle University, taking BS Computer Science, Major in Software Technology. I've covered many roles and wore many hats, but I mainly focus on web development!<br/><br/>
-                I'm also a (former? retired? taking a break?) electronic music producer, composer and songwriter, with a <a href="https://www.youtube.com/@K97i">YouTube channel</a>
+                I'm also a (former? retired? taking a break?) electronic music producer, composer and songwriter, with a <a href="https://www.youtube.com/@K97i">YouTube channel</a>.
             </p>
         </td>
         <td width="50%" valign="center">
